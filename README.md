@@ -1,6 +1,5 @@
-# NMAP_ScanningScript script for scannig open http  ports
+# Script for scannig open http ports
 # Run
-chmod +x recon.sh
-bash recon.sh
+chmod +x recon.sh && bash recon.sh
 # or
-./recon.sh
+chmod +x recon.sh && ./recon.sh
